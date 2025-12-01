@@ -23,8 +23,7 @@
     {
       "id": "#issuer-profile",
       "type": "IssuerProfile",
-      "serviceEndpoint": "https://cdn.jsdelivr.net/gh/MatiasTixeira/cert-tools-unq@configWithMatyCredenciales/cert-issuer/issuer.json"
+      "serviceEndpoint": "https://github.com/MatiasTixeira/blockcertsWebDidKey/blob/main/issuer-blockcerts.json"
     }
   ]
 }
-
