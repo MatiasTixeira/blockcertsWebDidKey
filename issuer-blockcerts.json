@@ -6,11 +6,11 @@
   "type": "Profile",
   "id": "https://github.com/MatiasTixeira/blockcertsWebDidKey/blob/main/issuer-blockcerts.json",
   "name": "Universidad Nacional de Quilmes (pruebas)",
-  "url": "https://emiliolalvarez.github.io",
-  "email": "emiliolalvarez@gmail.com",
+  "url": "https://MatiasTixeira.github.io",
+  "email": "matiastixera.3240@gmail.com",
   "publicKey": [
     {
-      "id": "ecdsa-koblitz-pubkey:0x649A56B98E03CeB2Dbeeaf2b1683FAADE6C504A9",
+      "id": "ecdsa-koblitz-pubkey:0x8f64f436d9c0806a7662df1541a47e5ff3e36923",
       "created": "2025-11-28T00:00:00Z"
     }
   ]
