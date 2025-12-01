@@ -3,12 +3,12 @@
     "https://www.w3.org/ns/did/v1",
     "https://w3id.org/security/suites/jws-2020/v1"
   ],
-  "id": "did:web:MatiasTixeira.github.io",
+  "id": "did:web:matiastixeira.github.io",
   "verificationMethod": [
     {
-      "id": "did:web:MatiasTixeira.github.io#key-1",
+      "id": "did:web:matiastixeira.github.io#key-1",
       "type": "JsonWebKey2020",
-      "controller": "did:web:MatiasTixeira.github.io",
+      "controller": "did:web:matiastixeira.github.io",
       "publicKeyJwk": {
         "kty": "EC",
         "crv": "K-256",
@@ -17,8 +17,8 @@
       }
     }
   ],
-  "authentication": ["did:web:MatiasTixeira.github.io#key-1"],
-  "assertionMethod": ["did:web:MatiasTixeira.github.io#key-1"],
+  "authentication": ["did:web:matiastixeira.github.io#key-1"],
+  "assertionMethod": ["did:web:matiastixeira.github.io#key-1"],
   "service": [
     {
       "id": "#issuer-profile",
